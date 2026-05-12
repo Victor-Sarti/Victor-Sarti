@@ -1,49 +1,89 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black&height=120&section=header"/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello!,+My+Name+is+Victor+Sarti;Backend+Developer+Apprentice;AWS+Cloud+Practitioner+Certified;Be+Welcome!!+:%29)](https://git.io/typing-svg)
- 
-<br/>
 <div align="center">
-Sou desenvolvedor backend em formação, atualmente trabalhando como **Aprendiz - Desenvolvedor Backend** e certificado como **AWS Cloud Practitioner**. Apaixonado por tecnologia e sempre em busca de aprender algo novo.
- 
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00bfbf,100:0d1117&height=140&section=header&text=Victor%20Sarti&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
 </div>
 <br/>
-## 🪪 Certificações
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00BFBF&center=true&vCenter=true&width=600&lines=Backend+Developer+Apprentice+%F0%9F%92%BB;AWS+Cloud+Practitioner+Certified+%E2%98%81%EF%B8%8F;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</div>
+<br/>
+---
+ 
+### 👋 Sobre mim
+ 
+Tenho 20 anos, sou de São Paulo e estou dando meus primeiros passos profissionais como **Aprendiz - Desenvolvedor Backend**. Gosto de entender como as coisas funcionam por baixo dos panos — seja uma API, um banco de dados ou uma arquitetura na nuvem.
+ 
+Recentemente conquistei a certificação **AWS Cloud Practitioner**, o que abriu minha cabeça pra pensar em soluções escaláveis e o poder da computação em nuvem.
+ 
+Ainda estou construindo minha trajetória, mas faço isso com consistência e muita curiosidade. 🚀
+ 
+<br/>
+---
+ 
+### ☁️ Certificação
  
 <div align="center">
-  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" href="https://www.credly.com/badges/d74be832-5287-40fc-8d67-4ad7c6467e5f/linked_in?t=tdjcgg "width="120" alt="AWS Cloud Practitioner"/>
+  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" 
+   href="https://www.credly.com/badges/d74be832-5287-40fc-8d67-4ad7c6467e5f/linked_in?t=tdjcgg"
+   width="130" alt="AWS Cloud Practitioner Badge"/>
+  <br/><br/>
+  <b>AWS Certified Cloud Practitioner</b>
   <br/>
-  <strong>AWS Certified Cloud Practitioner</strong>
 </div>
 <br/>
-## 📊 GitHub Stats
+---
+ 
+### 🛠️ Tecnologias
  
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victor-sarti&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="victor-sarti github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-sarti&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+**Backend & Linguagens**
+ 
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+ 
+**Banco de Dados**
+ 
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-0d1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
+![Oracle](https://img.shields.io/badge/Oracle-0d1117?style=for-the-badge&logo=oracle&logoColor=F80000)
+ 
+**Cloud & Frontend**
+ 
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
+ 
 </div>
 <br/>
-## 🛠️ Languages and Tools
+---
  
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="react-native" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
+### 📊 GitHub Stats
+ 
+<div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=victor-sarti&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-sarti&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=victor-sarti&theme=dark&hide_border=true&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf&background=0d1117"/>
 </div>
 <br/>
-## 🌐 Connect with me
+---
  
-<a href="https://www.linkedin.com/in/victor-sarti-ab6807249" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor-sarti" height="30" width="40"/>
-</a>
+### 📬 Onde me encontrar
+ 
+<div align="center">
+  <a href="https://www.linkedin.com/in/victor-sarti-ab6807249" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00bfbf" />
+  </a>
+  <a href="https://github.com/victor-sarti" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00bfbf" />
+  </a>
+</div>
 <br/>
-<br/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00bfbf,100:0d1117&height=120&section=footer"/>
+</div>
