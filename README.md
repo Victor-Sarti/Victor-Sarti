@@ -24,11 +24,11 @@ Ainda estou construindo minha trajetória, mas faço isso com consistência e mu
 ### ☁️ Certificação
  
 <div align="center">
-  <img src="https://www.credly.com/badges/d74be832-5287-40fc-8d67-4ad7c6467e5f/linked_in?t=tdjcgg" 
-   width="130" alt="AWS Cloud Practitioner Badge"/>
+  <a href="https://www.credly.com/badges/d74be832-5287-40fc-8d67-4ad7c6467e5f" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="130" alt="AWS Cloud Practitioner Badge"/>
+  </a>
   <br/><br/>
   <b>AWS Certified Cloud Practitioner</b>
-  <br/>
 </div>
 <br/>
 ---
@@ -76,7 +76,7 @@ Ainda estou construindo minha trajetória, mas faço isso com consistência e mu
  
 <div align="center">
   <a href="https://www.linkedin.com/in/victor-sarti-ab6807249" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ffff00" />
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00bfbf" />
   </a>
   <a href="https://github.com/victor-sarti" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00bfbf" />
