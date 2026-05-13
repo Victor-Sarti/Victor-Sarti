@@ -77,7 +77,7 @@ Ainda estou construindo minha trajetória, mas faço isso com consistência e mu
 ### 📬 Onde me encontrar
  
 <div align="center">
-  <a href="https://www.linkedin.com/in/victor-sarti-ab6807249" target="_blank">
+  <a href="https://www.linkedin.com/in/victor-sarti-7370933aa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00bfbf" />
   </a>
   <a href="https://github.com/victor-sarti" target="_blank">
