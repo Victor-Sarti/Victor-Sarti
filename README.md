@@ -65,10 +65,6 @@ Ainda estou construindo minha trajetória, mas faço isso com consistência e mu
 ### 📊 GitHub Stats
  
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=victor-sarti&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-sarti&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-<div align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=victor-sarti&theme=dark&hide_border=true&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf&background=0d1117"/>
 </div>
 <br/>
